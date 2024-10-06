@@ -7,7 +7,7 @@
     },
     "textonmap": {
         "top watermark": "Welcome to server \nIP @IP PORT @PORT",
-        "bottom left watermark": "Owner : <owner-name> \nEditor : <bablu>\nScripts : BCS1.7.13",
+        "bottom left watermark": "Owner : LÙÇÍFÊR \nEditor : LÙÇÍFÊR\nScripts : BY LÙÇÍFÊR",
         "center highlights":{
             "color":[1,0,0],
             "randomColor":true,
@@ -15,13 +15,13 @@
                 "type end to start end vote",
                 "start msg with prefix .(dot) to send in game popup msg",
                 "start msg with prefix ,(comma) to send msg to teammates",
-                "BombSquad Community Server - BCS"
+                "SERVER BY LÙÇÍFÊR"
                 ]
         }
     },
     "ScoreScreenAnnouncement":{
         "enable": true,
-        "msg": ["click stats button to join discord", "watch hey smoothy youtube channel","download new mods from discord", "use /ping all to check others ping.",
+        "msg": ["click stats button to join discord","use /ping all to check others ping.",
     "start msg with prefix ,(comma) to send msg to teammates", "start msg with prefix .(dot) to send in game popup msg","click stats button for leaderboard","get notification when friends join this server, checkout leaderboard",
 "abusers, spammers will get auto ban", "doesnt matter who starts fight, if you abuse- you will get ban too."]
     },
@@ -31,13 +31,13 @@
         "barsBehindName":true
     },
     "autoNightMode":{
-        "enable":true,
+        "enable":false,
         "startTime":"18:30",
         "endTime":"06:00",
         "fireflies":true,
         "fireflies_random_color":false
     },
-    "colorfullMap":true,
+    "colorfullMap":false,
     "playlists":{
         "team":12345,
         "ffa":412175,
@@ -82,9 +82,9 @@
              "Punch": 3, "Mine Bombs": 2,
             "Impact Bombs": 3, "Ice Bombs": 3, "Triple": 3,
             "Sticky Bombs": 3, "Curse": 1, "Health": 1,
-            "Speed": 2, "Healing Damage": 1, "Goodbye": 2,
-            "Ice Man": 1,"Tank Shield": 1, "Impairment Bombs": 2,
-            "Fire Bombs": 3, "Fly Bombs": 3}
+            "Speed": 0,"Healing Damage": 0, "Goodbye": 0,
+            "Ice Man": 0,"Tank Shield": 1, "Impairment Bombs": 2,
+            "Fire Bombs": 0, "Fly Bombs": 0}
     },
     "discordbot":{
         "enable":false,
@@ -99,12 +99,12 @@
     },
     "afk_remover":{
         "enable":true,
-        "ingame_idle_time_in_secs":60,
+        "ingame_idle_time_in_secs":100,
         "kick_idle_from_lobby":true,
-        "lobby_idle_time_in_secs":10
+        "lobby_idle_time_in_secs":100
     },
     "playermod": {
-        "default_boxing_gloves": true,
+        "default_boxing_gloves": false,
         "default_shield" : false,
         "default_bomb" : "normal",
         "default_bomb_count" : 1
@@ -115,7 +115,7 @@
     "sameCharacterForTeam":false,
     "newResultBoard":true,
     "HostDeviceName":"v1.4",
-    "HostName":"BCS",
+    "HostName":"LÙÇÍFÊR",
     "ShowKickVoteStarterName":true,
     "autoTeamBalance": true,
     "KickVoteMsgType":"chat",
