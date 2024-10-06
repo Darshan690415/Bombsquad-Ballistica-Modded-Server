@@ -12,9 +12,7 @@
         "ids": [
             "pb-IF4TVXJZCg==",
             "pb-JiNJARBaXEFBVF9HFkNXXF1EF0ZaRlZE",
-            "pb-IF4TVWwZUQ==",
-            "pb-IF4SVW9dEg==",
-            "pb-IF5XUm9eAg=="
+            
         ]
     },
     "admin": {
@@ -28,7 +26,7 @@
             "createrole"
         ],
         "ids": [
-            "pb-IF4TVWwZUQ=="
+            
         ]
     },
     "vip": {
@@ -83,11 +81,8 @@
         ],
         "commands": [],
         "ids": [
-            "pb-IF5XUm9eAg==",
-            "pb-IF43VUwlAg==",
-            "pb-IF4iVUc5Cg==",
-            "pb-IF4vNnMJ",
-            "pb-IF4TVWwZUQ=="
+            "pb-IF4TVXJZCg==",
+            
         ]
     }
 }
