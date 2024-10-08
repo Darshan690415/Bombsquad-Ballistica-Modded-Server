@@ -99,9 +99,9 @@
     },
     "afk_remover":{
         "enable":true,
-        "ingame_idle_time_in_secs":60,
+        "ingame_idle_time_in_secs":250,
         "kick_idle_from_lobby":true,
-        "lobby_idle_time_in_secs":10
+        "lobby_idle_time_in_secs":150
     },
     "playermod": {
         "default_boxing_gloves": false,
