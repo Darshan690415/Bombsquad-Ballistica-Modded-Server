@@ -7,7 +7,7 @@
     },
     "textonmap": {
         "top watermark": "𝐓𝟑 𝐌𝐎𝐃𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
-        "bottom left watermark": "\nOwner : LÙÇÍFÊR \nEditor : LÙÇÍFÊR\n"
+        "bottom left watermark": "\nOwner : LÙÇÍFÊR\nEditor : LÙÇÍFÊR\n"
         "center highlights":{
             "color":[1,0,0],
             "randomColor":true,
